@@ -1,0 +1,2 @@
+./data/fonts/khm/Angkor-Regular.ttf
+./data/fonts/khm/Battambang-Regular.ttf
